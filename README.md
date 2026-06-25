@@ -59,9 +59,9 @@ Deepening skills in **Python** and **SQL** for data analysis · Preparing for **
 
 
 
-# 안녕하세요, 최민서입니다 👋
+# 안녕하세요, 최민서입니다 !🙇‍♂️
 
-가천대학교 경영학과에 재학 중이이며 데이터 분석에 관심이 많은 학생입니다!
+가천대학교 경영학과에 재학 중이이며 데이터 분석에 관심이 많은 학생입니다
 
 
 ---
